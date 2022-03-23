@@ -1,3 +1,3 @@
 {
-  "extensions": ["vsls-contrib.codetour"]
+  "extensions": ["vsls-contrib.codetour", "codespaces-Contrib.codeswing"]
 }
